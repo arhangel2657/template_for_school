@@ -9,7 +9,7 @@ body{
     background: linear-gradient(to top right,rgba(0, 0, 255, 0.748),rgb(244, 159, 173));   
     margin-top: 50px;
     padding: 15px 15px 15px 15px;
-    border-radius: 15px;
+    border-radius: 150px;
     overflow: auto;
 }
 .ee::-webkit-scrollbar{
